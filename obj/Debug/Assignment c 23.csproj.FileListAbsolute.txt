@@ -1,0 +1,10 @@
+D:\exercises\4-8\Assignment c 23\Assignment c 23\bin\Debug\Assignment c 23.exe.config
+D:\exercises\4-8\Assignment c 23\Assignment c 23\bin\Debug\Assignment c 23.exe
+D:\exercises\4-8\Assignment c 23\Assignment c 23\bin\Debug\Assignment c 23.pdb
+D:\exercises\4-8\Assignment c 23\Assignment c 23\bin\Debug\Assignment 23.dll
+D:\exercises\4-8\Assignment c 23\Assignment c 23\bin\Debug\Assignment 23.pdb
+D:\exercises\4-8\Assignment c 23\Assignment c 23\obj\Debug\Assignment c 23.csproj.AssemblyReference.cache
+D:\exercises\4-8\Assignment c 23\Assignment c 23\obj\Debug\Assignment c 23.csproj.CoreCompileInputs.cache
+D:\exercises\4-8\Assignment c 23\Assignment c 23\obj\Debug\Assignment c 23.csproj.CopyComplete
+D:\exercises\4-8\Assignment c 23\Assignment c 23\obj\Debug\Assignment c 23.exe
+D:\exercises\4-8\Assignment c 23\Assignment c 23\obj\Debug\Assignment c 23.pdb
